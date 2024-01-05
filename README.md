@@ -1,6 +1,6 @@
 # Netflix Clone
 
-A Netflix clone project that replicates the home page from scratch using HTML, CSS
+A Netflix clone project that replicates the home page from scratch using HTML and CSS.
 
 
 ## Screenshots
